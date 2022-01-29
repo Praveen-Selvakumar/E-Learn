@@ -1,0 +1,34 @@
+
+
+
+
+1. - Splash Screen
+2. - Login Page 
+3. - Register Page
+4. - OTP Page 
+5. - Welcome Page 
+6. - Location Details Page 
+8. - Parent Details Page 
+9. - DashBoard
+10 - Left Navigation Drawer
+11 - Topics Page
+12 - Chapters Page 
+13 - Quiz Page 
+14 - Quiz Result Page
+15 - Feed back Page
+16 - History Page
+17 - Video Player Page 
+ 
+
+
+09/01/21 :- 
+
+18 - Payment History
+19 - Certification
+20 - Notification 
+21 - Payment Details 
+22 - Settings 
+
+
+
+ 
